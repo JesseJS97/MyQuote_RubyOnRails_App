@@ -1,0 +1,13 @@
+Philosopher.create!({p_firstName: "Socrates", p_surname: "", p_deathYear: 399, p_bio: "Ancient Greek philosopher, considered one of the founders of Western philosophy.", p_year: 469})
+Philosopher.create!({p_firstName: "René", p_surname: "Descartes", p_deathYear: 1650, p_bio: "French philosopher, known for 'Cogito, ergo sum'.", p_year: 1596})
+Philosopher.create!({p_firstName: "Immanuel", p_surname: "Kant", p_deathYear: 1804, p_bio: "German philosopher, key figure in modern philosophy, especially in epistemology.", p_year: 1724})
+Philosopher.create!({p_firstName: "Friedrich", p_surname: "Nietzsche", p_deathYear: 1900, p_bio: "German philosopher known for ideas like nihilism and the Übermensch.", p_year: 1844})
+Philosopher.create!({p_firstName: "Plato", p_surname: "", p_deathYear: 348, p_bio: "Greek philosopher, student of Socrates, author of 'The Republic'.", p_year: 427})
+Philosopher.create!({p_firstName: "John", p_surname: "Locke", p_deathYear: 1704, p_bio: "English philosopher and political theorist, key Enlightenment thinker.", p_year: 1632})
+Philosopher.create!({p_firstName: "David", p_surname: "Hume", p_deathYear: 1776, p_bio: "Scottish philosopher, historian, economist, known for empiricism and skepticism.", p_year: 1711})
+Philosopher.create!({p_firstName: "Karl", p_surname: "Marx", p_deathYear: 1883, p_bio: "German philosopher, economist, and socialist revolutionary.", p_year: 1818})
+Philosopher.create!({p_firstName: "Jean-Paul", p_surname: "Sartre", p_deathYear: 1980, p_bio: "French existentialist philosopher, playwright, and novelist.", p_year: 1905})
+Philosopher.create!({p_firstName: "Simone", p_surname: "de Beauvoir", p_deathYear: 1986, p_bio: "French existentialist philosopher and feminist, author of 'The Second Sex'.", p_year: 1908})
+Philosopher.create!({p_firstName: "Aristotle", p_surname: "", p_deathYear: 322, p_bio: "Greek philosopher, student of Plato, teacher of Alexander the Great.", p_year: 384})
+Philosopher.create!({p_firstName: "Ludwig", p_surname: "Wittgenstein", p_deathYear: 1951, p_bio: "Austrian-British philosopher who worked on logic and language philosophy.", p_year: 1889})
+

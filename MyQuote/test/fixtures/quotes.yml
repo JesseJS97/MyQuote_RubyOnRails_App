@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  quote_txt: MyText
+  user_comm: MyText
+  user: one
+  philosopher: one
+
+two:
+  quote_txt: MyText
+  user_comm: MyText
+  user: two
+  philosopher: two

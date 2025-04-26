@@ -1,0 +1,14 @@
+<h1>Welcome to MyQuotes</h1>
+<p>If you have the quotes, we have the website for you!</p>
+<h3>Recently Added Quotes</h3>
+#OpenAI.(2024). Insert quotes snippet of code [AI-generated .txt file]. Generated using ChatGPT, provided by OpenAI.
+<ul>
+  <% @recentquotes.each do |quote| %>
+    <li>
+      <strong><%= quote.philosopher.p_firstName %> <%= quote.philosopher.p_surname %>:</strong> "<%= quote.quote_txt %>"
+      <br>
+      <small>Added on <%= quote.created_at.strftime("%B %d, %Y") %></small>
+    </li>
+  <% end %>
+</ul>
+
