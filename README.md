@@ -10,6 +10,3 @@ Structured data has been generated using AI.
 4. SQLite3 installed
 5. NodeJS installed
 6. Yarn installed
-
-# How to launch app
-1. Clone repository
